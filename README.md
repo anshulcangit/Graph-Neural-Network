@@ -17,5 +17,3 @@ Key datasets used:
 * Graph Attention Networks (GATs): Enhanced classification accuracy with attention mechanisms.
 * GraphSAGE: Neighborhood sampling for large-scale node classification.
 * Link Prediction on OGB-DDI: Achieved high Hits@K scores for predicting drug interactions.
-* Dynamic Link Prediction: Implemented online learning to handle evolving graph structures for real-time link prediction tasks.
-* Custom Training Pipelines: Optimized pipelines for data processing, training, and evaluation.
